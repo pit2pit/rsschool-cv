@@ -1,8 +1,8 @@
-1* **Name Surname:** Vitaly Zverko ![pit2pit](173596577.png)
-2* **Contacts:** mail - *pit2pit4y@gmail.com*, discord - *pit2pit*
-3* **Brif information about yourself:** I want to complite the course
-4* **Skill:** no
-5* **Code examples:** ``
-6* **Work experience Junior Dev:** rsschool-cv project 
-7* **Education:** no
-8* **English:** with a dictionary
+* **Name Surname:** Vitaly Zverko ![pit2pit](173596577-1.png)
+* **Contacts:** mail - *pit2pit4y@gmail.com*, discord - *pit2pit*
+* **Brif information about yourself:** I want to complite the course
+* **Skill:** no
+* **Code examples:** ``
+* **Work experience Junior Dev:** rsschool-cv project 
+* **Education:** no
+* **English:** with a dictionary
