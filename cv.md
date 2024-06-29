@@ -8,7 +8,7 @@
 
 * **Code examples:** `console.log("Hello, World!")`
 
-* **Work experience Junior Dev:** rsschool-cv project [https://github.com/pit2pit/rsschool-cv/blob/gh-pages/cv.md]
+* **Work experience Junior Dev:** rsschool-cv project [https://pit2pit.github.io/rsschool-cv/cv]
 
 * **Education:** no
 
