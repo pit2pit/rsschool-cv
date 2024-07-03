@@ -1,8 +1,38 @@
-div{width: 150px;
-text-align: center;
-background-color: rgb(252, 183, 99);
-border-radius: 5%;
-margin: 50px;}
-p{font: 24px italic tahoma;
-padding: 30px;
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font: 400 24px/1.5 tahoma;
+    color: rgb(82, 43, 43);
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+    padding: 0 30px;
+    line-height: 50px;
+}
+
+pre {
+    line-height: 1;
 }
